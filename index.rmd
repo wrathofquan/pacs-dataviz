@@ -349,7 +349,7 @@ Visual complexity
 
 ## Jupyter Notebook
 
-[MatplotLib Introduction](https://github.berkeley.edu/joshua-quan/data-viz/blob/master/matplotlib.ipynb)
+[MatplotLib Introduction](https://mybinder.org/v2/gh/wrathofquan/pacs-dataviz/master)
 
 
 
