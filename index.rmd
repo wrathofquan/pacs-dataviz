@@ -4,7 +4,7 @@ output:
   revealjs::revealjs_presentation:
     css: styles.css
     self_contained: false
-    reveal_plugins: ["chalkboard"]
+    reveal_plugins: ["chalkboard", "notes"]
     theme: black
     transition: fade
     highlight: zenburn
@@ -23,7 +23,9 @@ UC Berkeley Library
 
 `r format(Sys.time(), "%B %Y")`
 
-
+<aside class="notes">
+		Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit »S« on your keyboard).
+	</aside>
 
 --------
 
@@ -46,12 +48,20 @@ UC Berkeley Library
 
 ![](images/brain.PNG)
 
+<aside class="notes">
+our most keenest sense is vision - we process visual information very quickly. so it's important to be aware of some principles around designing visual artifacts meant to convey information.
+	</aside>
+
 
 ## Why Visualize? {data-background=#000000}
 
 
 ![](images/warningsign.PNG)
 
+
+<aside class="notes">
+	to really drive the point home - for those of you who drive - you can understand why the sign on the right would be more effective than the text of the left.
+	</aside>
 
 ## Why Visualize? {data-background=#000000}
 
