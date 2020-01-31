@@ -46,7 +46,7 @@ UC Berkeley Library
 
 ## Why Visualize? {data-background=#000000}
 
-![](images/brain.PNG)
+![](images/brain.png)
 
 <aside class="notes">
 our most keenest sense is vision - we process visual information very quickly. so it's important to be aware of some principles around designing visual artifacts meant to convey information.
@@ -56,7 +56,7 @@ our most keenest sense is vision - we process visual information very quickly. s
 ## Why Visualize? {data-background=#000000}
 
 
-![](images/warningsign.PNG)
+![](images/warningsign.png)
 
 
 <aside class="notes">
@@ -67,7 +67,7 @@ our most keenest sense is vision - we process visual information very quickly. s
 
 Explore (Descriptive)
 
-![](images/abstraction.PNG){ width=75% }
+![](images/abstraction.png){ width=75% }
 
 
 ## Anscombe's Quartet
