@@ -39,18 +39,13 @@ UC Berkeley Library
 4. Jupyter Notebook
 5. Hands-on critique activity
 
-## Why Visualize?
-
 
 
 
 ## Why Visualize? {data-background=#000000}
 
-![](images/brain.PNG)
 
-<aside class="notes">
-our most keenest sense is vision - we process visual information very quickly. so it's important to be aware of some principles around designing visual artifacts meant to convey information.
-	</aside>
+![](images/brain.PNG)
 
 
 ## Why Visualize? {data-background=#000000}
