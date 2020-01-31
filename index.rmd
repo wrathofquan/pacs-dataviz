@@ -46,7 +46,7 @@ UC Berkeley Library
 
 ## Why Visualize? {data-background=#000000}
 
-![](images/brain.png)
+![](images/brain.PNG)
 
 <aside class="notes">
 our most keenest sense is vision - we process visual information very quickly. so it's important to be aware of some principles around designing visual artifacts meant to convey information.
